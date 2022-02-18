@@ -2404,12 +2404,12 @@
   </CheatEntries>
   <UserdefinedSymbols/>
   <Comments>Info about this table:
-</Comments>
+  </Comments>
   <DisassemblerComments>
     <DisassemblerComment>
       <Address>"Spelunky.exe"+E60FC</Address>
       <Comment>Robot check
-</Comment>
+      </Comment>
     </DisassemblerComment>
   </DisassemblerComments>
 </CheatTable>
