@@ -17,7 +17,7 @@
           <ShowAsSigned>0</ShowAsSigned>
           <Color>800000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>Spelunky.exe+138558</Address>
+          <Address>Spelunky.exe+154510</Address>
           <Offsets>
             <Offset>30</Offset>
           </Offsets>
@@ -38,7 +38,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>440684</Offset>
               </Offsets>
@@ -49,7 +49,7 @@
               <ShowAsSigned>1</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>140</Offset>
                 <Offset>440684</Offset>
@@ -61,7 +61,7 @@
               <LastState Value="0" RealAddress="0CA446B4"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>440694</Offset>
               </Offsets>
@@ -72,7 +72,7 @@
               <LastState Value="0" RealAddress="0CA446B8"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>440698</Offset>
               </Offsets>
@@ -83,7 +83,7 @@
               <LastState Value="4" RealAddress="0CA446C4"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>4406A4</Offset>
               </Offsets>
@@ -94,7 +94,7 @@
               <LastState Value="4" RealAddress="0CA446C8"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>4406A8</Offset>
               </Offsets>
@@ -106,7 +106,7 @@
               <LastState Value="0" RealAddress="0CA4473C"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>44071C</Offset>
               </Offsets>
@@ -117,7 +117,7 @@
                   <ShowAsHex>1</ShowAsHex>
                   <Color>800000</Color>
                   <VariableType>4 Bytes</VariableType>
-                  <Address>Spelunky.exe+138558</Address>
+                  <Address>Spelunky.exe+154510</Address>
                   <Offsets>
                     <Offset>234</Offset>
                     <Offset>30</Offset>
@@ -129,7 +129,7 @@
                   <LastState Value="0" RealAddress="0CA44740"/>
                   <Color>800000</Color>
                   <VariableType>4 Bytes</VariableType>
-                  <Address>"Spelunky.exe"+001384B4</Address>
+                  <Address>"Spelunky.exe"+0015446C</Address>
                   <Offsets>
                     <Offset>440720</Offset>
                   </Offsets>
@@ -139,7 +139,7 @@
                   <Description>"Mattock Uses (held entity struct)"</Description>
                   <Color>800000</Color>
                   <VariableType>4 Bytes</VariableType>
-                  <Address>Spelunky.exe+138558</Address>
+                  <Address>Spelunky.exe+154510</Address>
                   <Offsets>
                     <Offset>154</Offset>
                     <Offset>234</Offset>
@@ -151,7 +151,7 @@
                   <Description>"Weapon Fire Delay"</Description>
                   <Color>800000</Color>
                   <VariableType>4 Bytes</VariableType>
-                  <Address>Spelunky.exe+138558</Address>
+                  <Address>Spelunky.exe+154510</Address>
                   <Offsets>
                     <Offset>26C</Offset>
                     <Offset>234</Offset>
@@ -166,7 +166,7 @@
               <LastState Value="0" RealAddress="0CA45B54"/>
               <Color>800000</Color>
               <VariableType>Byte</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>441B34</Offset>
               </Offsets>
@@ -177,7 +177,7 @@
               <LastState Value="87" RealAddress="0CA499E8"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>4459C8</Offset>
               </Offsets>
@@ -188,7 +188,7 @@
               <LastState Value="87" RealAddress="0CA499EC"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>4459CC</Offset>
               </Offsets>
@@ -199,7 +199,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>184</Offset>
                 <Offset>440684</Offset>
@@ -211,7 +211,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>164</Offset>
                 <Offset>440684</Offset>
@@ -223,7 +223,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>204</Offset>
                 <Offset>440684</Offset>
@@ -235,7 +235,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>274</Offset>
                 <Offset>440684</Offset>
@@ -255,7 +255,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0000FF</Color>
                   <VariableType>4 Bytes</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>138</Offset>
                     <Offset>440684</Offset>
@@ -267,7 +267,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0000FF</Color>
                   <VariableType>4 Bytes</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>134</Offset>
                     <Offset>440684</Offset>
@@ -289,7 +289,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>30</Offset>
                     <Offset>440684</Offset>
@@ -301,7 +301,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>34</Offset>
                     <Offset>440684</Offset>
@@ -313,7 +313,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>244</Offset>
                     <Offset>440684</Offset>
@@ -325,7 +325,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>248</Offset>
                     <Offset>440684</Offset>
@@ -347,7 +347,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>70</Offset>
                     <Offset>280</Offset>
@@ -360,7 +360,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>71</Offset>
                     <Offset>280</Offset>
@@ -373,7 +373,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>72</Offset>
                     <Offset>280</Offset>
@@ -386,7 +386,7 @@
                       <ShowAsSigned>0</ShowAsSigned>
                       <Color>008000</Color>
                       <VariableType>4 Bytes</VariableType>
-                      <Address>Spelunky.exe+1384B4</Address>
+                      <Address>Spelunky.exe+15446C</Address>
                       <Offsets>
                         <Offset>144</Offset>
                         <Offset>238</Offset>
@@ -403,7 +403,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>73</Offset>
                     <Offset>280</Offset>
@@ -416,7 +416,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>74</Offset>
                     <Offset>280</Offset>
@@ -429,7 +429,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>75</Offset>
                     <Offset>280</Offset>
@@ -442,7 +442,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>76</Offset>
                     <Offset>280</Offset>
@@ -455,7 +455,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>77</Offset>
                     <Offset>280</Offset>
@@ -468,7 +468,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>78</Offset>
                     <Offset>280</Offset>
@@ -481,7 +481,7 @@
                       <ShowAsSigned>0</ShowAsSigned>
                       <Color>008000</Color>
                       <VariableType>4 Bytes</VariableType>
-                      <Address>Spelunky.exe+1384B4</Address>
+                      <Address>Spelunky.exe+15446C</Address>
                       <Offsets>
                         <Offset>84</Offset>
                         <Offset>280</Offset>
@@ -496,7 +496,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>79</Offset>
                     <Offset>280</Offset>
@@ -509,7 +509,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7A</Offset>
                     <Offset>280</Offset>
@@ -522,7 +522,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7B</Offset>
                     <Offset>280</Offset>
@@ -535,7 +535,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7C</Offset>
                     <Offset>280</Offset>
@@ -548,7 +548,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7D</Offset>
                     <Offset>280</Offset>
@@ -561,7 +561,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7E</Offset>
                     <Offset>280</Offset>
@@ -574,7 +574,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7F</Offset>
                     <Offset>280</Offset>
@@ -587,7 +587,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>80</Offset>
                     <Offset>280</Offset>
@@ -600,7 +600,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>81</Offset>
                     <Offset>280</Offset>
@@ -626,7 +626,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>470A2C</Offset>
               </Offsets>
@@ -638,7 +638,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>140</Offset>
                 <Offset>470A2C</Offset>
@@ -651,7 +651,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>184</Offset>
                 <Offset>470A2C</Offset>
@@ -664,7 +664,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>164</Offset>
                 <Offset>470A2C</Offset>
@@ -677,7 +677,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>204</Offset>
                 <Offset>470A2C</Offset>
@@ -690,7 +690,7 @@
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>274</Offset>
                 <Offset>470A2C</Offset>
@@ -711,7 +711,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0000FF</Color>
                   <VariableType>4 Bytes</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>138</Offset>
                     <Offset>470A2C</Offset>
@@ -724,7 +724,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0000FF</Color>
                   <VariableType>4 Bytes</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>134</Offset>
                     <Offset>470A2C</Offset>
@@ -747,7 +747,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>30</Offset>
                     <Offset>470A2C</Offset>
@@ -760,7 +760,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>34</Offset>
                     <Offset>470A2C</Offset>
@@ -773,7 +773,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>244</Offset>
                     <Offset>470A2C</Offset>
@@ -786,7 +786,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>248</Offset>
                     <Offset>470A2C</Offset>
@@ -809,7 +809,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>70</Offset>
                     <Offset>280</Offset>
@@ -823,7 +823,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>71</Offset>
                     <Offset>280</Offset>
@@ -837,7 +837,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>72</Offset>
                     <Offset>280</Offset>
@@ -850,7 +850,7 @@
                       <ShowAsSigned>0</ShowAsSigned>
                       <Color>008000</Color>
                       <VariableType>4 Bytes</VariableType>
-                      <Address>Spelunky.exe+1384B4</Address>
+                      <Address>Spelunky.exe+15446C</Address>
                       <Offsets>
                         <Offset>144</Offset>
                         <Offset>238</Offset>
@@ -868,7 +868,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>73</Offset>
                     <Offset>280</Offset>
@@ -882,7 +882,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>74</Offset>
                     <Offset>280</Offset>
@@ -896,7 +896,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>75</Offset>
                     <Offset>280</Offset>
@@ -910,7 +910,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>76</Offset>
                     <Offset>280</Offset>
@@ -924,7 +924,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>77</Offset>
                     <Offset>280</Offset>
@@ -938,7 +938,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>78</Offset>
                     <Offset>280</Offset>
@@ -952,7 +952,7 @@
                       <ShowAsSigned>0</ShowAsSigned>
                       <Color>008000</Color>
                       <VariableType>4 Bytes</VariableType>
-                      <Address>Spelunky.exe+1384B4</Address>
+                      <Address>Spelunky.exe+15446C</Address>
                       <Offsets>
                         <Offset>84</Offset>
                         <Offset>280</Offset>
@@ -968,7 +968,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>79</Offset>
                     <Offset>280</Offset>
@@ -982,7 +982,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7A</Offset>
                     <Offset>280</Offset>
@@ -996,7 +996,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7B</Offset>
                     <Offset>280</Offset>
@@ -1010,7 +1010,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7C</Offset>
                     <Offset>280</Offset>
@@ -1024,7 +1024,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7D</Offset>
                     <Offset>280</Offset>
@@ -1038,7 +1038,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7E</Offset>
                     <Offset>280</Offset>
@@ -1052,7 +1052,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>7F</Offset>
                     <Offset>280</Offset>
@@ -1066,7 +1066,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>80</Offset>
                     <Offset>280</Offset>
@@ -1080,7 +1080,7 @@
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
-                  <Address>Spelunky.exe+1384B4</Address>
+                  <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>81</Offset>
                     <Offset>280</Offset>
@@ -1107,7 +1107,7 @@
           <LastState Value="1" RealAddress="0CA445F4"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405D4</Offset>
           </Offsets>
@@ -1117,7 +1117,7 @@
           <Description>"copy of total money(??)"</Description>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+00138558</Address>
+          <Address>"Spelunky.exe"+00154510</Address>
           <Offsets>
             <Offset>8</Offset>
             <Offset>280</Offset>
@@ -1129,7 +1129,7 @@
           <Description>"Level Money"</Description>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+00138558</Address>
+          <Address>"Spelunky.exe"+00154510</Address>
           <Offsets>
             <Offset>C</Offset>
             <Offset>280</Offset>
@@ -1142,7 +1142,7 @@
           <LastState Value="0" RealAddress="0CA44744"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440724</Offset>
           </Offsets>
@@ -1153,7 +1153,7 @@
           <LastState Value="0" RealAddress="0CA44748"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440728</Offset>
           </Offsets>
@@ -1164,7 +1164,7 @@
               <LastState Value="0" RealAddress="0CA44644"/>
               <Color>800080</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>440624</Offset>
               </Offsets>
@@ -1177,7 +1177,7 @@
           <LastState Value="0" RealAddress="0CA45B4C"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>441B2C</Offset>
           </Offsets>
@@ -1188,7 +1188,7 @@
           <LastState Value="0" RealAddress="0CA4994C"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>44592C</Offset>
           </Offsets>
@@ -1199,7 +1199,7 @@
           <LastState Value="0" RealAddress="0CA4B364"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>447344</Offset>
           </Offsets>
@@ -1210,7 +1210,7 @@
           <LastState Value="0" RealAddress="0CA4B36C"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>44734C</Offset>
           </Offsets>
@@ -1238,7 +1238,7 @@
               <LastState Value="0" RealAddress="0CA49960"/>
               <Color>6A6A6A</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>445940</Offset>
               </Offsets>
@@ -1249,7 +1249,7 @@
               <LastState Value="11" RealAddress="0CA49964"/>
               <Color>6A6A6A</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>445944</Offset>
               </Offsets>
@@ -1260,7 +1260,7 @@
               <LastState Value="898.052185058594" RealAddress="0CA49968"/>
               <Color>6A6A6A</Color>
               <VariableType>Double</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>445948</Offset>
               </Offsets>
@@ -1281,7 +1281,7 @@
               <ShowAsSigned>1</ShowAsSigned>
               <Color>6A6A6A</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>445950</Offset>
               </Offsets>
@@ -1292,7 +1292,7 @@
               <LastState Value="11" RealAddress="0CA49974"/>
               <Color>6A6A6A</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>445954</Offset>
               </Offsets>
@@ -1303,7 +1303,7 @@
               <LastState Value="898.052185058594" RealAddress="0CA49978"/>
               <Color>6A6A6A</Color>
               <VariableType>Double</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>445958</Offset>
               </Offsets>
@@ -1327,7 +1327,7 @@
           <ShowAsSigned>1</ShowAsSigned>
           <Color>1158FF</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440618</Offset>
           </Offsets>
@@ -1338,7 +1338,7 @@
           <LastState Value="0" RealAddress="0CA4463C"/>
           <Color>1158FF</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>44061C</Offset>
           </Offsets>
@@ -1350,7 +1350,7 @@
           <ShowAsSigned>1</ShowAsSigned>
           <Color>1158FF</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>445930</Offset>
           </Offsets>
@@ -1371,7 +1371,7 @@
           <LastState Value="0" RealAddress="0CA4460F"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405EF</Offset>
           </Offsets>
@@ -1382,7 +1382,7 @@
           <LastState Value="0" RealAddress="0CA44610"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
-          <Address>Spelunky.exe+1384B4</Address>
+          <Address>Spelunky.exe+15446C</Address>
           <Offsets>
             <Offset>4405F0</Offset>
           </Offsets>
@@ -1393,7 +1393,7 @@
           <LastState Value="0" RealAddress="0CA44612"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
-          <Address>Spelunky.exe+1384B4</Address>
+          <Address>Spelunky.exe+15446C</Address>
           <Offsets>
             <Offset>4405F2</Offset>
           </Offsets>
@@ -1404,7 +1404,7 @@
           <LastState Value="0" RealAddress="0CA44613"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405F3</Offset>
           </Offsets>
@@ -1415,7 +1415,7 @@
           <LastState Value="0" RealAddress="0CA44614"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405F4</Offset>
           </Offsets>
@@ -1426,7 +1426,7 @@
           <LastState Value="0" RealAddress="0CA44615"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405F5</Offset>
           </Offsets>
@@ -1437,7 +1437,7 @@
           <LastState Value="0" RealAddress="0CA44616"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405F6</Offset>
           </Offsets>
@@ -1448,7 +1448,7 @@
           <LastState Value="0" RealAddress="0CA44617"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405F7</Offset>
           </Offsets>
@@ -1459,7 +1459,7 @@
           <LastState Value="0" RealAddress="0CA44618"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405F8</Offset>
           </Offsets>
@@ -1470,7 +1470,7 @@
           <LastState Value="0" RealAddress="0CA44619"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405F9</Offset>
           </Offsets>
@@ -1481,7 +1481,7 @@
           <LastState Value="0" RealAddress="0CA4461A"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405FA</Offset>
           </Offsets>
@@ -1492,7 +1492,7 @@
           <LastState Value="0" RealAddress="0CA4461C"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405FC</Offset>
           </Offsets>
@@ -1503,7 +1503,7 @@
           <LastState Value="0" RealAddress="0CA4461D"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405FD</Offset>
           </Offsets>
@@ -1514,7 +1514,7 @@
           <LastState Value="0" RealAddress="0CA4461E"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405FE</Offset>
           </Offsets>
@@ -1525,7 +1525,7 @@
           <LastState Value="0" RealAddress="0CA4461F"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405FF</Offset>
           </Offsets>
@@ -1536,7 +1536,7 @@
           <LastState Value="0" RealAddress="0CA44620"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440600</Offset>
           </Offsets>
@@ -1547,7 +1547,7 @@
           <LastState Value="0" RealAddress="0CA44621"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440601</Offset>
           </Offsets>
@@ -1558,7 +1558,7 @@
           <LastState Value="0" RealAddress="0CA44622"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440602</Offset>
           </Offsets>
@@ -1569,7 +1569,7 @@
           <LastState Value="0" RealAddress="0CA44623"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440603</Offset>
           </Offsets>
@@ -1580,7 +1580,7 @@
           <LastState Value="0" RealAddress="0CA44624"/>
           <Color>00BFFF</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440604</Offset>
           </Offsets>
@@ -1591,7 +1591,7 @@
           <LastState Value="0" RealAddress="0CA44625"/>
           <Color>00BFFF</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440605</Offset>
           </Offsets>
@@ -1602,7 +1602,7 @@
           <LastState Value="0" RealAddress="0CA44626"/>
           <Color>6C6CFF</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440606</Offset>
           </Offsets>
@@ -1613,7 +1613,7 @@
           <LastState Value="0" RealAddress="0CA44627"/>
           <Color>6C6CFF</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440607</Offset>
           </Offsets>
@@ -1624,7 +1624,7 @@
           <LastState Value="0" RealAddress="0CA44628"/>
           <Color>6C6CFF</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440608</Offset>
           </Offsets>
@@ -1635,7 +1635,7 @@
           <LastState Value="0" RealAddress="0CA4462A"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>44060A</Offset>
           </Offsets>
@@ -1656,7 +1656,7 @@
           <LastState Value="0" RealAddress="0CA4460D"/>
           <Color>0000FF</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405ED</Offset>
           </Offsets>
@@ -1667,7 +1667,7 @@
           <LastState Value="0" RealAddress="0CA4462C"/>
           <Color>0000FF</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>44060C</Offset>
           </Offsets>
@@ -1678,7 +1678,7 @@
           <LastState Value="0" RealAddress="0CA44630"/>
           <Color>0000FF</Color>
           <VariableType>Byte</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440610</Offset>
           </Offsets>
@@ -1699,7 +1699,7 @@
           <LastState Value="0" RealAddress="0CA4A40C"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4463EC</Offset>
           </Offsets>
@@ -1710,7 +1710,7 @@
           <LastState Value="0" RealAddress="0CA4A410"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4463F0</Offset>
           </Offsets>
@@ -1721,7 +1721,7 @@
           <LastState Value="0" RealAddress="0CA4A414"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4463F4</Offset>
           </Offsets>
@@ -1732,7 +1732,7 @@
           <LastState Value="0" RealAddress="0CA4A418"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4463F8</Offset>
           </Offsets>
@@ -1743,7 +1743,7 @@
           <LastState Value="0" RealAddress="0CA4A41C"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4463FC</Offset>
           </Offsets>
@@ -1754,7 +1754,7 @@
           <LastState Value="0" RealAddress="0CA4A420"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>446400</Offset>
           </Offsets>
@@ -1765,7 +1765,7 @@
           <LastState Value="0" RealAddress="0CA4A424"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>446404</Offset>
           </Offsets>
@@ -1776,7 +1776,7 @@
           <LastState Value="0" RealAddress="0CA4A428"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>446408</Offset>
           </Offsets>
@@ -1787,7 +1787,7 @@
           <LastState Value="0" RealAddress="0CA4A42C"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>44640C</Offset>
           </Offsets>
@@ -1798,7 +1798,7 @@
           <LastState Value="0" RealAddress="0CA4A430"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>446410</Offset>
           </Offsets>
@@ -1809,7 +1809,7 @@
           <LastState Value="0" RealAddress="0CA4A434"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>446414</Offset>
           </Offsets>
@@ -1820,7 +1820,7 @@
           <LastState Value="0" RealAddress="0CA4A438"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>446418</Offset>
           </Offsets>
@@ -1831,7 +1831,7 @@
           <LastState Value="0" RealAddress="0CA4A43C"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>44641C</Offset>
           </Offsets>
@@ -1842,7 +1842,7 @@
           <LastState Value="1" RealAddress="0CA4A440"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>446420</Offset>
           </Offsets>
@@ -1853,7 +1853,7 @@
           <LastState Value="0" RealAddress="0CA4A444"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>446424</Offset>
           </Offsets>
@@ -1864,7 +1864,7 @@
           <LastState Value="0" RealAddress="0CA4A448"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>446428</Offset>
           </Offsets>
@@ -1885,7 +1885,7 @@
           <LastState Value="0" RealAddress="0CA446D4"/>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4406B4</Offset>
           </Offsets>
@@ -1904,7 +1904,7 @@
               <LastState Value="90" RealAddress="0CA446D8"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>4406B8</Offset>
               </Offsets>
@@ -1915,7 +1915,7 @@
               <LastState Value="90" RealAddress="0CA446DC"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406BC</Offset>
               </Offsets>
@@ -1926,7 +1926,7 @@
               <LastState Value="90" RealAddress="0CA446E0"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406C0</Offset>
               </Offsets>
@@ -1937,7 +1937,7 @@
               <LastState Value="90" RealAddress="0CA446E4"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406C4</Offset>
               </Offsets>
@@ -1948,7 +1948,7 @@
               <LastState Value="90" RealAddress="0CA446E8"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406C8</Offset>
               </Offsets>
@@ -1959,7 +1959,7 @@
               <LastState Value="90" RealAddress="0CA446EC"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406CC</Offset>
               </Offsets>
@@ -1970,7 +1970,7 @@
               <LastState Value="90" RealAddress="0CA446F0"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406D0</Offset>
               </Offsets>
@@ -1981,7 +1981,7 @@
               <LastState Value="90" RealAddress="0CA446F4"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406D4</Offset>
               </Offsets>
@@ -2002,7 +2002,7 @@
               <LastState Value="0" RealAddress="0CA446F8"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>"Spelunky.exe"+001384B4</Address>
+              <Address>"Spelunky.exe"+0015446C</Address>
               <Offsets>
                 <Offset>4406D8</Offset>
               </Offsets>
@@ -2013,7 +2013,7 @@
               <LastState Value="0" RealAddress="0CA446FC"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406DC</Offset>
               </Offsets>
@@ -2024,7 +2024,7 @@
               <LastState Value="0" RealAddress="0CA44700"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406E0</Offset>
               </Offsets>
@@ -2035,7 +2035,7 @@
               <LastState Value="0" RealAddress="0CA44704"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406E4</Offset>
               </Offsets>
@@ -2046,7 +2046,7 @@
               <LastState Value="0" RealAddress="0CA44708"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406E8</Offset>
               </Offsets>
@@ -2057,7 +2057,7 @@
               <LastState Value="0" RealAddress="0CA4470C"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406EC</Offset>
               </Offsets>
@@ -2068,7 +2068,7 @@
               <LastState Value="0" RealAddress="0CA44710"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406F0</Offset>
               </Offsets>
@@ -2079,7 +2079,7 @@
               <LastState Value="0" RealAddress="0CA44714"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
-              <Address>Spelunky.exe+1384B4</Address>
+              <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>4406F4</Offset>
               </Offsets>
@@ -2092,7 +2092,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>30</Offset>
@@ -2104,7 +2104,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>284</Offset>
@@ -2117,7 +2117,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>284</Offset>
@@ -2131,7 +2131,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>284</Offset>
@@ -2146,7 +2146,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>284</Offset>
@@ -2162,7 +2162,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>284</Offset>
@@ -2179,7 +2179,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>284</Offset>
@@ -2197,7 +2197,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>284</Offset>
@@ -2216,7 +2216,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>284</Offset>
@@ -2236,7 +2236,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>284</Offset>
             <Offset>284</Offset>
@@ -2268,7 +2268,7 @@
           <ShowAsSigned>0</ShowAsSigned>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>Spelunky.exe+1384b4</Address>
+          <Address>Spelunky.exe+15446C</Address>
           <Offsets>
             <Offset>44730A</Offset>
           </Offsets>
@@ -2279,7 +2279,7 @@
           <LastState Value="0" RealAddress="0C604078"/>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>Spelunky.exe+1384B4</Address>
+          <Address>Spelunky.exe+15446C</Address>
           <Offsets>
             <Offset>58</Offset>
           </Offsets>
@@ -2290,7 +2290,7 @@
           <LastState Value="1" RealAddress="03EF0500"/>
           <Color>008080</Color>
           <VariableType>Float</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>38</Offset>
           </Offsets>
@@ -2301,7 +2301,7 @@
           <LastState Value="0.01639997959" RealAddress="0CA44680"/>
           <Color>008080</Color>
           <VariableType>Float</VariableType>
-          <Address>"Spelunky.exe"+001384B4</Address>
+          <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>440660</Offset>
           </Offsets>
@@ -2312,7 +2312,7 @@
           <LastState Value="1500" RealAddress="0CA499BC"/>
           <Color>008080</Color>
           <VariableType>Float</VariableType>
-          <Address>Spelunky.exe+1384b4</Address>
+          <Address>Spelunky.exe+15446C</Address>
           <Offsets>
             <Offset>44599C</Offset>
           </Offsets>
@@ -2323,7 +2323,7 @@
           <LastState Value="0" RealAddress="0CA49958"/>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>Spelunky.exe+1384b4</Address>
+          <Address>Spelunky.exe+15446C</Address>
           <Offsets>
             <Offset>445938</Offset>
           </Offsets>
@@ -2335,7 +2335,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+1384b4</Address>
+          <Address>"Spelunky.exe"+15446C</Address>
           <Offsets>
             <Offset>30</Offset>
           </Offsets>
@@ -2346,7 +2346,7 @@
           <LastState Value="36" RealAddress="0CA7C250"/>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+1384b4</Address>
+          <Address>"Spelunky.exe"+15446C</Address>
           <Offsets>
             <Offset>7810</Offset>
             <Offset>30</Offset>
@@ -2358,7 +2358,7 @@
           <LastState Value="2" RealAddress="0CA49948"/>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>Spelunky.exe+1384b4</Address>
+          <Address>Spelunky.exe+15446C</Address>
           <Offsets>
             <Offset>445928</Offset>
           </Offsets>
@@ -2370,7 +2370,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+1384B4</Address>
+          <Address>"Spelunky.exe"+15446C</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>253</ID>
@@ -2379,7 +2379,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>255</ID>
@@ -2388,7 +2388,7 @@
           <ShowAsHex>1</ShowAsHex>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
-          <Address>"Spelunky.exe"+138558</Address>
+          <Address>"Spelunky.exe"+154510</Address>
           <Offsets>
             <Offset>30</Offset>
           </Offsets>

@@ -7,7 +7,7 @@
       <LastState Value="19173856" Activated="0" RealAddress="07E72C70"/>
       <Color>80000008</Color>
       <VariableType>4 Bytes</VariableType>
-      <Address>"Spelunky.exe"+1384b4</Address>
+      <Address>"Spelunky.exe"+15446C</Address>
       <Offsets>
         <Offset>122C50</Offset>
         <Offset>4C</Offset>
@@ -19,7 +19,7 @@
       <LastState Value="19173856" Activated="0" RealAddress="07E72C88"/>
       <Color>80000008</Color>
       <VariableType>4 Bytes</VariableType>
-      <Address>"Spelunky.exe"+1384b4</Address>
+      <Address>"Spelunky.exe"+15446C</Address>
       <Offsets>
         <Offset>122C68</Offset>
         <Offset>4C</Offset>
