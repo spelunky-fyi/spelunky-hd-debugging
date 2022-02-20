@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CheatTable CheatEngineTableVersion="34">
+<CheatTable CheatEngineTableVersion="42">
   <CheatEntries>
     <CheatEntry>
       <ID>20</ID>
       <Description>"PLAYERS =============================="</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" Activated="1" RealAddress="00000000"/>
       <Color>800000</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>337</ID>
           <Description>"Flag Player"</Description>
-          <LastState Value="00000000" RealAddress="03EF04F8"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <Color>800000</Color>
@@ -26,14 +24,12 @@
           <ID>399</ID>
           <Description>"Player 1"</Description>
           <Options moHideChildren="1"/>
-          <LastState Value="" Activated="1" RealAddress="00000000"/>
           <Color>800000</Color>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
               <ID>398</ID>
               <Description>"P1"</Description>
-              <LastState Value="00000000" RealAddress="0CA446A4"/>
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
@@ -58,7 +54,6 @@
             <CheatEntry>
               <ID>23</ID>
               <Description>"P1 Health Text"</Description>
-              <LastState Value="0" RealAddress="0CA446B4"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -69,7 +64,6 @@
             <CheatEntry>
               <ID>278</ID>
               <Description>"P1 Health Text Copy?"</Description>
-              <LastState Value="0" RealAddress="0CA446B8"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -80,7 +74,6 @@
             <CheatEntry>
               <ID>277</ID>
               <Description>"P1 Bombs"</Description>
-              <LastState Value="4" RealAddress="0CA446C4"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -91,7 +84,6 @@
             <CheatEntry>
               <ID>25</ID>
               <Description>"P1 Ropes"</Description>
-              <LastState Value="4" RealAddress="0CA446C8"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -103,7 +95,6 @@
               <ID>88</ID>
               <Description>"Held Item ID"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="0" RealAddress="0CA4473C"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -126,7 +117,6 @@
                 <CheatEntry>
                   <ID>282</ID>
                   <Description>"Mattock Uses (player data struct)"</Description>
-                  <LastState Value="0" RealAddress="0CA44740"/>
                   <Color>800000</Color>
                   <VariableType>4 Bytes</VariableType>
                   <Address>"Spelunky.exe"+0015446C</Address>
@@ -163,7 +153,6 @@
             <CheatEntry>
               <ID>279</ID>
               <Description>"damsel at level transition"</Description>
-              <LastState Value="0" RealAddress="0CA45B54"/>
               <Color>800000</Color>
               <VariableType>Byte</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -174,7 +163,6 @@
             <CheatEntry>
               <ID>153</ID>
               <Description>"Play Count"</Description>
-              <LastState Value="87" RealAddress="0CA499E8"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -185,7 +173,6 @@
             <CheatEntry>
               <ID>156</ID>
               <Description>"Death Count"</Description>
-              <LastState Value="87" RealAddress="0CA499EC"/>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -245,7 +232,6 @@
               <ID>228</ID>
               <Description>"Animation===================="</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>0000FF</Color>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
@@ -279,7 +265,6 @@
               <ID>154</ID>
               <Description>"LOCATION ============================"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>0080FF</Color>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
@@ -337,7 +322,6 @@
               <ID>106</ID>
               <Description>"ITEMS ==============================="</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>008000</Color>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
@@ -615,119 +599,110 @@
           <ID>400</ID>
           <Description>"Player 2"</Description>
           <Options moHideChildren="1"/>
-          <LastState Value="" RealAddress="00000000"/>
+          <Color>800000</Color>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
               <ID>351</ID>
               <Description>"P2"</Description>
-              <LastState Value="0CAE4ED8" RealAddress="0CA74A4C"/>
               <ShowAsHex>1</ShowAsHex>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
               <Offsets>
-                <Offset>470A2C</Offset>
+                <Offset>440688</Offset>
               </Offsets>
             </CheatEntry>
             <CheatEntry>
               <ID>401</ID>
               <Description>"P2 Health"</Description>
-              <LastState Value="0" RealAddress="0CAE5018"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>140</Offset>
-                <Offset>470A2C</Offset>
+                <Offset>440688</Offset>
               </Offsets>
             </CheatEntry>
             <CheatEntry>
               <ID>364</ID>
               <Description>"P2 Stun Time"</Description>
-              <LastState Value="998" RealAddress="0CAE505C"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>184</Offset>
-                <Offset>470A2C</Offset>
+                <Offset>440688</Offset>
               </Offsets>
             </CheatEntry>
             <CheatEntry>
               <ID>365</ID>
               <Description>"P2 Freeze Time"</Description>
-              <LastState Value="0" RealAddress="0CAE503C"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>164</Offset>
-                <Offset>470A2C</Offset>
+                <Offset>440688</Offset>
               </Offsets>
             </CheatEntry>
             <CheatEntry>
               <ID>366</ID>
               <Description>"P2 is on Ground?"</Description>
-              <LastState Value="0" RealAddress="0CAE50DC"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>204</Offset>
-                <Offset>470A2C</Offset>
+                <Offset>440688</Offset>
               </Offsets>
             </CheatEntry>
             <CheatEntry>
               <ID>367</ID>
               <Description>"P2 Coyote Frames"</Description>
-              <LastState Value="0" RealAddress="0CAE514C"/>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>800000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
               <Offsets>
                 <Offset>274</Offset>
-                <Offset>470A2C</Offset>
+                <Offset>440688</Offset>
               </Offsets>
             </CheatEntry>
             <CheatEntry>
               <ID>368</ID>
               <Description>"Animation===================="</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>0000FF</Color>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>369</ID>
                   <Description>"P2 Animation Frame"</Description>
-                  <LastState Value="27" RealAddress="0CAE5010"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0000FF</Color>
                   <VariableType>4 Bytes</VariableType>
                   <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>138</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>370</ID>
                   <Description>"P2 Animation Type"</Description>
-                  <LastState Value="16" RealAddress="0CAE500C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0000FF</Color>
                   <VariableType>4 Bytes</VariableType>
                   <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>134</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
               </CheatEntries>
@@ -736,60 +711,55 @@
               <ID>371</ID>
               <Description>"LOCATION ============================"</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>0080FF</Color>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>372</ID>
                   <Description>"P2 X Position"</Description>
-                  <LastState Value="21.20593643" RealAddress="0CAE4F08"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
                   <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>30</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>373</ID>
                   <Description>"P2 Y Position"</Description>
-                  <LastState Value="76.11415863" RealAddress="0CAE4F0C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
                   <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>34</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>374</ID>
                   <Description>"P2 X Velocity"</Description>
-                  <LastState Value="0.1890000254" RealAddress="0CAE511C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
                   <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>244</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>375</ID>
                   <Description>"P2 Y Velocity"</Description>
-                  <LastState Value="-0.400000006" RealAddress="0CAE5120"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>0080FF</Color>
                   <VariableType>Float</VariableType>
                   <Address>Spelunky.exe+15446C</Address>
                   <Offsets>
                     <Offset>248</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
               </CheatEntries>
@@ -798,14 +768,12 @@
               <ID>376</ID>
               <Description>"ITEMS ==============================="</Description>
               <Options moHideChildren="1"/>
-              <LastState Value="" RealAddress="00000000"/>
               <Color>008000</Color>
               <GroupHeader>1</GroupHeader>
               <CheatEntries>
                 <CheatEntry>
                   <ID>377</ID>
                   <Description>"Compass"</Description>
-                  <LastState Value="0" RealAddress="0CA45BC8"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -813,13 +781,12 @@
                   <Offsets>
                     <Offset>70</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>378</ID>
                   <Description>"Parachute"</Description>
-                  <LastState Value="0" RealAddress="0CA45BC9"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -827,13 +794,12 @@
                   <Offsets>
                     <Offset>71</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>379</ID>
                   <Description>"Jetpack"</Description>
-                  <LastState Value="0" RealAddress="0CA45BCA"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -841,7 +807,7 @@
                   <Offsets>
                     <Offset>72</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                   <CheatEntries>
                     <CheatEntry>
@@ -856,7 +822,7 @@
                         <Offset>238</Offset>
                         <Offset>230</Offset>
                         <Offset>238</Offset>
-                        <Offset>470A2C</Offset>
+                        <Offset>440688</Offset>
                       </Offsets>
                     </CheatEntry>
                   </CheatEntries>
@@ -864,7 +830,6 @@
                 <CheatEntry>
                   <ID>381</ID>
                   <Description>"Climbing Gloves"</Description>
-                  <LastState Value="0" RealAddress="0CA45BCB"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -872,13 +837,12 @@
                   <Offsets>
                     <Offset>73</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>382</ID>
                   <Description>"Pitcher's Mitt"</Description>
-                  <LastState Value="0" RealAddress="0CA45BCC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -886,13 +850,12 @@
                   <Offsets>
                     <Offset>74</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>383</ID>
                   <Description>"Spring Shoes"</Description>
-                  <LastState Value="0" RealAddress="0CA45BCD"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -900,13 +863,12 @@
                   <Offsets>
                     <Offset>75</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>384</ID>
                   <Description>"Spike Shoes"</Description>
-                  <LastState Value="0" RealAddress="0CA45BCE"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -914,13 +876,12 @@
                   <Offsets>
                     <Offset>76</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>385</ID>
                   <Description>"Spectacles"</Description>
-                  <LastState Value="0" RealAddress="0CA45BCF"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -928,13 +889,12 @@
                   <Offsets>
                     <Offset>77</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>386</ID>
                   <Description>"Kapala"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD0"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -942,13 +902,12 @@
                   <Offsets>
                     <Offset>78</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>387</ID>
                       <Description>"Charge"</Description>
-                      <LastState Value="0" RealAddress="0CA45BDC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <Color>008000</Color>
                       <VariableType>4 Bytes</VariableType>
@@ -956,7 +915,7 @@
                       <Offsets>
                         <Offset>84</Offset>
                         <Offset>280</Offset>
-                        <Offset>470A2C</Offset>
+                        <Offset>440688</Offset>
                       </Offsets>
                     </CheatEntry>
                   </CheatEntries>
@@ -964,7 +923,6 @@
                 <CheatEntry>
                   <ID>388</ID>
                   <Description>"Hedjet"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD1"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -972,13 +930,12 @@
                   <Offsets>
                     <Offset>79</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>389</ID>
                   <Description>"Udjat Eye"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD2"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -986,13 +943,12 @@
                   <Offsets>
                     <Offset>7A</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>390</ID>
                   <Description>"Book of the Dead"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD3"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -1000,13 +956,12 @@
                   <Offsets>
                     <Offset>7B</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>391</ID>
                   <Description>"Ankh"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD4"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -1014,13 +969,12 @@
                   <Offsets>
                     <Offset>7C</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>392</ID>
                   <Description>"Paste"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD5"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -1028,13 +982,12 @@
                   <Offsets>
                     <Offset>7D</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>393</ID>
                   <Description>"Cape"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD6"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -1042,13 +995,12 @@
                   <Offsets>
                     <Offset>7E</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>394</ID>
                   <Description>"Vlad's Cape"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD7"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -1056,13 +1008,12 @@
                   <Offsets>
                     <Offset>7F</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>395</ID>
                   <Description>"Crysknife"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD8"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -1070,13 +1021,12 @@
                   <Offsets>
                     <Offset>80</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
                   </Offsets>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>396</ID>
                   <Description>"Vlad's Amulet"</Description>
-                  <LastState Value="0" RealAddress="0CA45BD9"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <Color>008000</Color>
                   <VariableType>Byte</VariableType>
@@ -1084,7 +1034,899 @@
                   <Offsets>
                     <Offset>81</Offset>
                     <Offset>280</Offset>
-                    <Offset>470A2C</Offset>
+                    <Offset>440688</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>408</ID>
+          <Description>"Player 3"</Description>
+          <Options moHideChildren="1"/>
+          <Color>800000</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>409</ID>
+              <Description>"P3"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>44068C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>410</ID>
+              <Description>"P3 Health"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>140</Offset>
+                <Offset>44068C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>411</ID>
+              <Description>"P3 Stun Time"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>184</Offset>
+                <Offset>44068C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>412</ID>
+              <Description>"P3 Freeze Time"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>164</Offset>
+                <Offset>44068C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>413</ID>
+              <Description>"P3 is on Ground?"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>204</Offset>
+                <Offset>44068C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>414</ID>
+              <Description>"P3 Coyote Frames"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>274</Offset>
+                <Offset>44068C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>415</ID>
+              <Description>"Animation===================="</Description>
+              <Options moHideChildren="1"/>
+              <Color>0000FF</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>416</ID>
+                  <Description>"P3 Animation Frame"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0000FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>138</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>417</ID>
+                  <Description>"P3 Animation Type"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0000FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>134</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>418</ID>
+              <Description>"LOCATION ============================"</Description>
+              <Options moHideChildren="1"/>
+              <Color>0080FF</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>419</ID>
+                  <Description>"P3 X Position"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0080FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>30</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>420</ID>
+                  <Description>"P3 Y Position"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0080FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>34</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>421</ID>
+                  <Description>"P3 X Velocity"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0080FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>244</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>422</ID>
+                  <Description>"P3 Y Velocity"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0080FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>248</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>423</ID>
+              <Description>"ITEMS ==============================="</Description>
+              <Options moHideChildren="1"/>
+              <Color>008000</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>424</ID>
+                  <Description>"Compass"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>70</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>425</ID>
+                  <Description>"Parachute"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>71</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>426</ID>
+                  <Description>"Jetpack"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>72</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>427</ID>
+                      <Description>"Fuel"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>008000</Color>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>Spelunky.exe+15446C</Address>
+                      <Offsets>
+                        <Offset>144</Offset>
+                        <Offset>238</Offset>
+                        <Offset>230</Offset>
+                        <Offset>238</Offset>
+                        <Offset>44068C</Offset>
+                      </Offsets>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>428</ID>
+                  <Description>"Climbing Gloves"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>73</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>429</ID>
+                  <Description>"Pitcher's Mitt"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>74</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>430</ID>
+                  <Description>"Spring Shoes"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>75</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>431</ID>
+                  <Description>"Spike Shoes"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>76</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>432</ID>
+                  <Description>"Spectacles"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>77</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>433</ID>
+                  <Description>"Kapala"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>78</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>434</ID>
+                      <Description>"Charge"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>008000</Color>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>Spelunky.exe+15446C</Address>
+                      <Offsets>
+                        <Offset>84</Offset>
+                        <Offset>280</Offset>
+                        <Offset>44068C</Offset>
+                      </Offsets>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>435</ID>
+                  <Description>"Hedjet"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>79</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>436</ID>
+                  <Description>"Udjat Eye"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7A</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>437</ID>
+                  <Description>"Book of the Dead"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7B</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>438</ID>
+                  <Description>"Ankh"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7C</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>439</ID>
+                  <Description>"Paste"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7D</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>440</ID>
+                  <Description>"Cape"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7E</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>441</ID>
+                  <Description>"Vlad's Cape"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7F</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>442</ID>
+                  <Description>"Crysknife"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>80</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>443</ID>
+                  <Description>"Vlad's Amulet"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>81</Offset>
+                    <Offset>280</Offset>
+                    <Offset>44068C</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>444</ID>
+          <Description>"Player 4"</Description>
+          <Options moHideChildren="1"/>
+          <Color>800000</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>445</ID>
+              <Description>"P4"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>440690</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>446</ID>
+              <Description>"P4 Health"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>140</Offset>
+                <Offset>440690</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>447</ID>
+              <Description>"P4 Stun Time"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>184</Offset>
+                <Offset>440690</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>448</ID>
+              <Description>"P4 Freeze Time"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>164</Offset>
+                <Offset>440690</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>449</ID>
+              <Description>"P4 is on Ground?"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>204</Offset>
+                <Offset>440690</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>450</ID>
+              <Description>"P4 Coyote Frames"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <Color>800000</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Spelunky.exe+15446C</Address>
+              <Offsets>
+                <Offset>274</Offset>
+                <Offset>440690</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>451</ID>
+              <Description>"Animation===================="</Description>
+              <Options moHideChildren="1"/>
+              <Color>0000FF</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>452</ID>
+                  <Description>"P4 Animation Frame"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0000FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>138</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>453</ID>
+                  <Description>"P4 Animation Type"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0000FF</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>134</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>454</ID>
+              <Description>"LOCATION ============================"</Description>
+              <Options moHideChildren="1"/>
+              <Color>0080FF</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>455</ID>
+                  <Description>"P4 X Position"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0080FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>30</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>456</ID>
+                  <Description>"P4 Y Position"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0080FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>34</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>457</ID>
+                  <Description>"P4 X Velocity"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0080FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>244</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>458</ID>
+                  <Description>"P4 Y Velocity"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>0080FF</Color>
+                  <VariableType>Float</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>248</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>459</ID>
+              <Description>"ITEMS ==============================="</Description>
+              <Options moHideChildren="1"/>
+              <Color>008000</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>460</ID>
+                  <Description>"Compass"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>70</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>461</ID>
+                  <Description>"Parachute"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>71</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>462</ID>
+                  <Description>"Jetpack"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>72</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>463</ID>
+                      <Description>"Fuel"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>008000</Color>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>Spelunky.exe+15446C</Address>
+                      <Offsets>
+                        <Offset>144</Offset>
+                        <Offset>238</Offset>
+                        <Offset>230</Offset>
+                        <Offset>238</Offset>
+                        <Offset>440690</Offset>
+                      </Offsets>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>464</ID>
+                  <Description>"Climbing Gloves"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>73</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>465</ID>
+                  <Description>"Pitcher's Mitt"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>74</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>466</ID>
+                  <Description>"Spring Shoes"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>75</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>467</ID>
+                  <Description>"Spike Shoes"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>76</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>468</ID>
+                  <Description>"Spectacles"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>77</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>469</ID>
+                  <Description>"Kapala"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>78</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                  <CheatEntries>
+                    <CheatEntry>
+                      <ID>470</ID>
+                      <Description>"Charge"</Description>
+                      <ShowAsSigned>0</ShowAsSigned>
+                      <Color>008000</Color>
+                      <VariableType>4 Bytes</VariableType>
+                      <Address>Spelunky.exe+15446C</Address>
+                      <Offsets>
+                        <Offset>84</Offset>
+                        <Offset>280</Offset>
+                        <Offset>440690</Offset>
+                      </Offsets>
+                    </CheatEntry>
+                  </CheatEntries>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>471</ID>
+                  <Description>"Hedjet"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>79</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>472</ID>
+                  <Description>"Udjat Eye"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7A</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>473</ID>
+                  <Description>"Book of the Dead"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7B</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>474</ID>
+                  <Description>"Ankh"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7C</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>475</ID>
+                  <Description>"Paste"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7D</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>476</ID>
+                  <Description>"Cape"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7E</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>477</ID>
+                  <Description>"Vlad's Cape"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>7F</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>478</ID>
+                  <Description>"Crysknife"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>80</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
+                  </Offsets>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>479</ID>
+                  <Description>"Vlad's Amulet"</Description>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <Color>008000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>Spelunky.exe+15446C</Address>
+                  <Offsets>
+                    <Offset>81</Offset>
+                    <Offset>280</Offset>
+                    <Offset>440690</Offset>
                   </Offsets>
                 </CheatEntry>
               </CheatEntries>
@@ -1097,19 +1939,32 @@
       <ID>21</ID>
       <Description>"THE RUN ============================="</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" RealAddress="00000000"/>
       <Color>800080</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>11</ID>
           <Description>"Level"</Description>
-          <LastState Value="1" RealAddress="0CA445F4"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
           <Offsets>
             <Offset>4405D4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>403</ID>
+          <Description>"Level Name"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>800080</Color>
+          <VariableType>String</VariableType>
+          <Length>1024</Length>
+          <Unicode>1</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>Spelunky.exe+15446C</Address>
+          <Offsets>
+            <Offset>c6</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -1139,7 +1994,6 @@
         <CheatEntry>
           <ID>108</ID>
           <Description>"Total Kills"</Description>
-          <LastState Value="0" RealAddress="0CA44744"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1150,7 +2004,6 @@
         <CheatEntry>
           <ID>284</ID>
           <Description>"Total Damsel Saves (P1)"</Description>
-          <LastState Value="0" RealAddress="0CA44748"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1161,7 +2014,6 @@
             <CheatEntry>
               <ID>288</ID>
               <Description>"Sawr's pointer for Casanova"</Description>
-              <LastState Value="0" RealAddress="0CA44644"/>
               <Color>800080</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -1174,7 +2026,6 @@
         <CheatEntry>
           <ID>32</ID>
           <Description>"Level Kills"</Description>
-          <LastState Value="0" RealAddress="0CA45B4C"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1185,7 +2036,6 @@
         <CheatEntry>
           <ID>29</ID>
           <Description>"Total Money"</Description>
-          <LastState Value="0" RealAddress="0CA4994C"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1196,7 +2046,6 @@
         <CheatEntry>
           <ID>335</ID>
           <Description>"Total Shoppie Kills"</Description>
-          <LastState Value="0" RealAddress="0CA4B364"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1207,7 +2056,6 @@
         <CheatEntry>
           <ID>12</ID>
           <Description>"Respawn Level"</Description>
-          <LastState Value="0" RealAddress="0CA4B36C"/>
           <Color>800080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1221,21 +2069,18 @@
       <ID>56</ID>
       <Description>"TIME ================================="</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" RealAddress="00000000"/>
       <Color>6A6A6A</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>155</ID>
           <Description>"TOTAL"</Description>
-          <LastState Value="" RealAddress="00000000"/>
           <Color>6A6A6A</Color>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
               <ID>52</ID>
               <Description>"Total Minutes"</Description>
-              <LastState Value="0" RealAddress="0CA49960"/>
               <Color>6A6A6A</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -1246,7 +2091,6 @@
             <CheatEntry>
               <ID>53</ID>
               <Description>"Total Seconds"</Description>
-              <LastState Value="11" RealAddress="0CA49964"/>
               <Color>6A6A6A</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -1257,7 +2101,6 @@
             <CheatEntry>
               <ID>109</ID>
               <Description>"Total Milliseconds"</Description>
-              <LastState Value="898.052185058594" RealAddress="0CA49968"/>
               <Color>6A6A6A</Color>
               <VariableType>Double</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -1270,14 +2113,12 @@
         <CheatEntry>
           <ID>55</ID>
           <Description>"LEVEL"</Description>
-          <LastState Value="" RealAddress="00000000"/>
           <Color>6A6A6A</Color>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
               <ID>107</ID>
               <Description>"Level Minutes"</Description>
-              <LastState Value="0" RealAddress="0CA49970"/>
               <ShowAsSigned>1</ShowAsSigned>
               <Color>6A6A6A</Color>
               <VariableType>4 Bytes</VariableType>
@@ -1289,7 +2130,6 @@
             <CheatEntry>
               <ID>50</ID>
               <Description>"Level Seconds"</Description>
-              <LastState Value="11" RealAddress="0CA49974"/>
               <Color>6A6A6A</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -1300,7 +2140,6 @@
             <CheatEntry>
               <ID>51</ID>
               <Description>"Level Milliseconds"</Description>
-              <LastState Value="898.052185058594" RealAddress="0CA49978"/>
               <Color>6A6A6A</Color>
               <VariableType>Double</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -1316,14 +2155,12 @@
       <ID>127</ID>
       <Description>"KALI ================================="</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" RealAddress="00000000"/>
       <Color>1158FF</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>125</ID>
           <Description>"Punishment Level"</Description>
-          <LastState Value="0" RealAddress="0CA44638"/>
           <ShowAsSigned>1</ShowAsSigned>
           <Color>1158FF</Color>
           <VariableType>4 Bytes</VariableType>
@@ -1335,7 +2172,6 @@
         <CheatEntry>
           <ID>126</ID>
           <Description>"Pissed This Level"</Description>
-          <LastState Value="0" RealAddress="0CA4463C"/>
           <Color>1158FF</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1346,7 +2182,6 @@
         <CheatEntry>
           <ID>105</ID>
           <Description>"Points"</Description>
-          <LastState Value="0" RealAddress="0CA49950"/>
           <ShowAsSigned>1</ShowAsSigned>
           <Color>1158FF</Color>
           <VariableType>4 Bytes</VariableType>
@@ -1361,14 +2196,12 @@
       <ID>110</ID>
       <Description>"SPECIAL LEVELS  ======================"</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" RealAddress="00000000"/>
       <Color>800080</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>112</ID>
           <Description>"Chest &amp; Key"</Description>
-          <LastState Value="0" RealAddress="0CA4460F"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1379,7 +2212,6 @@
         <CheatEntry>
           <ID>261</ID>
           <Description>"flag - udjat spawned"</Description>
-          <LastState Value="0" RealAddress="0CA44610"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
           <Address>Spelunky.exe+15446C</Address>
@@ -1390,7 +2222,6 @@
         <CheatEntry>
           <ID>262</ID>
           <Description>"flag - vault in world spawned"</Description>
-          <LastState Value="0" RealAddress="0CA44612"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
           <Address>Spelunky.exe+15446C</Address>
@@ -1401,7 +2232,6 @@
         <CheatEntry>
           <ID>79</ID>
           <Description>"Water"</Description>
-          <LastState Value="0" RealAddress="0CA44613"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1412,7 +2242,6 @@
         <CheatEntry>
           <ID>103</ID>
           <Description>"Spider Sacs"</Description>
-          <LastState Value="0" RealAddress="0CA44614"/>
           <Color>004080</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1423,7 +2252,6 @@
         <CheatEntry>
           <ID>76</ID>
           <Description>"Dead Are Restless"</Description>
-          <LastState Value="0" RealAddress="0CA44615"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1434,7 +2262,6 @@
         <CheatEntry>
           <ID>75</ID>
           <Description>"Rushing Water"</Description>
-          <LastState Value="0" RealAddress="0CA44616"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1445,7 +2272,6 @@
         <CheatEntry>
           <ID>58</ID>
           <Description>"Haunted Castle"</Description>
-          <LastState Value="0" RealAddress="0CA44617"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1456,7 +2282,6 @@
         <CheatEntry>
           <ID>272</ID>
           <Description>"Haunted Castle (inside/leaving byte)"</Description>
-          <LastState Value="0" RealAddress="0CA44618"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1467,7 +2292,6 @@
         <CheatEntry>
           <ID>113</ID>
           <Description>"Tiki Village"</Description>
-          <LastState Value="0" RealAddress="0CA44619"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1478,7 +2302,6 @@
         <CheatEntry>
           <ID>263</ID>
           <Description>"flag - BM entrance spawned"</Description>
-          <LastState Value="0" RealAddress="0CA4461A"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1489,7 +2312,6 @@
         <CheatEntry>
           <ID>269</ID>
           <Description>"flag - HC entrance spawned"</Description>
-          <LastState Value="0" RealAddress="0CA4461C"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1500,7 +2322,6 @@
         <CheatEntry>
           <ID>264</ID>
           <Description>"flag - mothership entrance spawned"</Description>
-          <LastState Value="0" RealAddress="0CA4461D"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1511,7 +2332,6 @@
         <CheatEntry>
           <ID>265</ID>
           <Description>"flag - moai spawned"</Description>
-          <LastState Value="0" RealAddress="0CA4461E"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1522,7 +2342,6 @@
         <CheatEntry>
           <ID>114</ID>
           <Description>"Black Market"</Description>
-          <LastState Value="0" RealAddress="0CA4461F"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1533,7 +2352,6 @@
         <CheatEntry>
           <ID>266</ID>
           <Description>"Black Market (inside/leaving byte)"</Description>
-          <LastState Value="0" RealAddress="0CA44620"/>
           <Color>008000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1544,7 +2362,6 @@
         <CheatEntry>
           <ID>116</ID>
           <Description>"Wet Fur"</Description>
-          <LastState Value="0" RealAddress="0CA44621"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1555,7 +2372,6 @@
         <CheatEntry>
           <ID>117</ID>
           <Description>"Mothership"</Description>
-          <LastState Value="0" RealAddress="0CA44622"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1566,7 +2382,6 @@
         <CheatEntry>
           <ID>267</ID>
           <Description>"Mothership (inside/leaving byte)"</Description>
-          <LastState Value="0" RealAddress="0CA44623"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1577,7 +2392,6 @@
         <CheatEntry>
           <ID>119</ID>
           <Description>"City of Gold"</Description>
-          <LastState Value="0" RealAddress="0CA44624"/>
           <Color>00BFFF</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1588,7 +2402,6 @@
         <CheatEntry>
           <ID>270</ID>
           <Description>"City of Gold (inside/leaving byte)"</Description>
-          <LastState Value="0" RealAddress="0CA44625"/>
           <Color>00BFFF</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1599,7 +2412,6 @@
         <CheatEntry>
           <ID>111</ID>
           <Description>"Worm"</Description>
-          <LastState Value="0" RealAddress="0CA44626"/>
           <Color>6C6CFF</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1610,7 +2422,6 @@
         <CheatEntry>
           <ID>268</ID>
           <Description>"Worm (inside/leaving byte, +1's level)"</Description>
-          <LastState Value="0" RealAddress="0CA44627"/>
           <Color>6C6CFF</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1621,7 +2432,6 @@
         <CheatEntry>
           <ID>271</ID>
           <Description>"flag - worm exited (typically prevents ice worm tongue spawn)"</Description>
-          <LastState Value="0" RealAddress="0CA44628"/>
           <Color>6C6CFF</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1632,7 +2442,6 @@
         <CheatEntry>
           <ID>118</ID>
           <Description>"Snow"</Description>
-          <LastState Value="0" RealAddress="0CA4462A"/>
           <Color>FF0000</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1646,14 +2455,12 @@
       <ID>120</ID>
       <Description>"SHOPKEEPERS ========================"</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" RealAddress="00000000"/>
       <Color>0000FF</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>80</ID>
           <Description>"Triggered This Level"</Description>
-          <LastState Value="0" RealAddress="0CA4460D"/>
           <Color>0000FF</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1664,7 +2471,6 @@
         <CheatEntry>
           <ID>121</ID>
           <Description>"Wanted Level"</Description>
-          <LastState Value="0" RealAddress="0CA4462C"/>
           <Color>0000FF</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1675,7 +2481,6 @@
         <CheatEntry>
           <ID>100</ID>
           <Description>"Triggered?"</Description>
-          <LastState Value="0" RealAddress="0CA44630"/>
           <Color>0000FF</Color>
           <VariableType>Byte</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1689,14 +2494,12 @@
       <ID>134</ID>
       <Description>"CHARACTERS ========================="</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" RealAddress="00000000"/>
       <Color>804000</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>148</ID>
           <Description>"Yang"</Description>
-          <LastState Value="0" RealAddress="0CA4A40C"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1707,7 +2510,6 @@
         <CheatEntry>
           <ID>147</ID>
           <Description>"Meat Boy"</Description>
-          <LastState Value="0" RealAddress="0CA4A410"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1718,7 +2520,6 @@
         <CheatEntry>
           <ID>146</ID>
           <Description>"Yellow"</Description>
-          <LastState Value="0" RealAddress="0CA4A414"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1729,7 +2530,6 @@
         <CheatEntry>
           <ID>145</ID>
           <Description>"Jungle Warrior"</Description>
-          <LastState Value="0" RealAddress="0CA4A418"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1740,7 +2540,6 @@
         <CheatEntry>
           <ID>144</ID>
           <Description>"Purple"</Description>
-          <LastState Value="0" RealAddress="0CA4A41C"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1751,7 +2550,6 @@
         <CheatEntry>
           <ID>143</ID>
           <Description>"Van Helsing"</Description>
-          <LastState Value="0" RealAddress="0CA4A420"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1762,7 +2560,6 @@
         <CheatEntry>
           <ID>142</ID>
           <Description>"Cyan"</Description>
-          <LastState Value="0" RealAddress="0CA4A424"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1773,7 +2570,6 @@
         <CheatEntry>
           <ID>141</ID>
           <Description>"Lime"</Description>
-          <LastState Value="0" RealAddress="0CA4A428"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1784,7 +2580,6 @@
         <CheatEntry>
           <ID>140</ID>
           <Description>"Eskimo"</Description>
-          <LastState Value="0" RealAddress="0CA4A42C"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1795,7 +2590,6 @@
         <CheatEntry>
           <ID>139</ID>
           <Description>"Round Girl"</Description>
-          <LastState Value="0" RealAddress="0CA4A430"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1806,7 +2600,6 @@
         <CheatEntry>
           <ID>138</ID>
           <Description>"Ninja"</Description>
-          <LastState Value="0" RealAddress="0CA4A434"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1817,7 +2610,6 @@
         <CheatEntry>
           <ID>137</ID>
           <Description>"Viking"</Description>
-          <LastState Value="0" RealAddress="0CA4A438"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1828,7 +2620,6 @@
         <CheatEntry>
           <ID>136</ID>
           <Description>"Round Boy"</Description>
-          <LastState Value="0" RealAddress="0CA4A43C"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1839,7 +2630,6 @@
         <CheatEntry>
           <ID>135</ID>
           <Description>"Cyclops"</Description>
-          <LastState Value="1" RealAddress="0CA4A440"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1850,7 +2640,6 @@
         <CheatEntry>
           <ID>132</ID>
           <Description>"Robot"</Description>
-          <LastState Value="0" RealAddress="0CA4A444"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1861,7 +2650,6 @@
         <CheatEntry>
           <ID>133</ID>
           <Description>"Golden Monk"</Description>
-          <LastState Value="0" RealAddress="0CA4A448"/>
           <Color>804000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1875,14 +2663,12 @@
       <ID>287</ID>
       <Description>"HIRED HANDS ========================="</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" Activated="1" RealAddress="00000000"/>
       <Color>FF0000</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>244</ID>
           <Description>"HH count"</Description>
-          <LastState Value="0" RealAddress="0CA446D4"/>
           <Color>FF0000</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -1894,14 +2680,12 @@
           <ID>289</ID>
           <Description>"SKINS ==============================="</Description>
           <Options moHideChildren="1"/>
-          <LastState Value="" RealAddress="00000000"/>
           <Color>FFFF00</Color>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
               <ID>292</ID>
               <Description>"Skin Slot 1"</Description>
-              <LastState Value="90" RealAddress="0CA446D8"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -1912,7 +2696,6 @@
             <CheatEntry>
               <ID>293</ID>
               <Description>"Skin Slot 2"</Description>
-              <LastState Value="90" RealAddress="0CA446DC"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -1923,7 +2706,6 @@
             <CheatEntry>
               <ID>296</ID>
               <Description>"Skin Slot 3"</Description>
-              <LastState Value="90" RealAddress="0CA446E0"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -1934,7 +2716,6 @@
             <CheatEntry>
               <ID>299</ID>
               <Description>"Skin Slot 4"</Description>
-              <LastState Value="90" RealAddress="0CA446E4"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -1945,7 +2726,6 @@
             <CheatEntry>
               <ID>298</ID>
               <Description>"Skin Slot 5"</Description>
-              <LastState Value="90" RealAddress="0CA446E8"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -1956,7 +2736,6 @@
             <CheatEntry>
               <ID>297</ID>
               <Description>"Skin Slot 6"</Description>
-              <LastState Value="90" RealAddress="0CA446EC"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -1967,7 +2746,6 @@
             <CheatEntry>
               <ID>295</ID>
               <Description>"Skin Slot 7"</Description>
-              <LastState Value="90" RealAddress="0CA446F0"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -1978,7 +2756,6 @@
             <CheatEntry>
               <ID>294</ID>
               <Description>"Skin Slot 8"</Description>
-              <LastState Value="90" RealAddress="0CA446F4"/>
               <Color>FFFF00</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -1992,14 +2769,12 @@
           <ID>302</ID>
           <Description>"HELD ITEM IDS ========================"</Description>
           <Options moHideChildren="1"/>
-          <LastState Value="" RealAddress="00000000"/>
           <Color>808000</Color>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
               <ID>326</ID>
               <Description>"Held Item 1"</Description>
-              <LastState Value="0" RealAddress="0CA446F8"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>"Spelunky.exe"+0015446C</Address>
@@ -2010,7 +2785,6 @@
             <CheatEntry>
               <ID>325</ID>
               <Description>"Held Item 2"</Description>
-              <LastState Value="0" RealAddress="0CA446FC"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -2021,7 +2795,6 @@
             <CheatEntry>
               <ID>324</ID>
               <Description>"Held Item 3"</Description>
-              <LastState Value="0" RealAddress="0CA44700"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -2032,7 +2805,6 @@
             <CheatEntry>
               <ID>323</ID>
               <Description>"Held Item 4"</Description>
-              <LastState Value="0" RealAddress="0CA44704"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -2043,7 +2815,6 @@
             <CheatEntry>
               <ID>322</ID>
               <Description>"Held Item 5"</Description>
-              <LastState Value="0" RealAddress="0CA44708"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -2054,7 +2825,6 @@
             <CheatEntry>
               <ID>321</ID>
               <Description>"Held Item 6"</Description>
-              <LastState Value="0" RealAddress="0CA4470C"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -2065,7 +2835,6 @@
             <CheatEntry>
               <ID>320</ID>
               <Description>"Held Item 7"</Description>
-              <LastState Value="0" RealAddress="0CA44710"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -2076,7 +2845,6 @@
             <CheatEntry>
               <ID>319</ID>
               <Description>"Held Item 8"</Description>
-              <LastState Value="0" RealAddress="0CA44714"/>
               <Color>808000</Color>
               <VariableType>4 Bytes</VariableType>
               <Address>Spelunky.exe+15446C</Address>
@@ -2257,14 +3025,12 @@
       <ID>81</ID>
       <Description>"OTHERS =============================="</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" RealAddress="00000000"/>
       <Color>008080</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>128</ID>
           <Description>"Debug Room Types"</Description>
-          <LastState Value="256" RealAddress="0CA4B32A"/>
           <ShowAsSigned>0</ShowAsSigned>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
@@ -2276,7 +3042,6 @@
         <CheatEntry>
           <ID>257</ID>
           <Description>"ScreenState (see github reference)"</Description>
-          <LastState Value="0" RealAddress="0C604078"/>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>Spelunky.exe+15446C</Address>
@@ -2287,7 +3052,6 @@
         <CheatEntry>
           <ID>254</ID>
           <Description>"Camera Speed (normal = 1, slowlook = 0.2)"</Description>
-          <LastState Value="1" RealAddress="03EF0500"/>
           <Color>008080</Color>
           <VariableType>Float</VariableType>
           <Address>"Spelunky.exe"+154510</Address>
@@ -2298,7 +3062,6 @@
         <CheatEntry>
           <ID>251</ID>
           <Description>"Insertion Point"</Description>
-          <LastState Value="0.01639997959" RealAddress="0CA44680"/>
           <Color>008080</Color>
           <VariableType>Float</VariableType>
           <Address>"Spelunky.exe"+0015446C</Address>
@@ -2309,7 +3072,6 @@
         <CheatEntry>
           <ID>258</ID>
           <Description>"black circle loading woosh"</Description>
-          <LastState Value="1500" RealAddress="0CA499BC"/>
           <Color>008080</Color>
           <VariableType>Float</VariableType>
           <Address>Spelunky.exe+15446C</Address>
@@ -2320,7 +3082,6 @@
         <CheatEntry>
           <ID>259</ID>
           <Description>"weird freeze frames counter?"</Description>
-          <LastState Value="0" RealAddress="0CA49958"/>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>Spelunky.exe+15446C</Address>
@@ -2331,7 +3092,6 @@
         <CheatEntry>
           <ID>273</ID>
           <Description>"entity list"</Description>
-          <LastState Value="0CA74A40" RealAddress="0C604050"/>
           <ShowAsHex>1</ShowAsHex>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
@@ -2343,7 +3103,6 @@
         <CheatEntry>
           <ID>274</ID>
           <Description>"number of entities"</Description>
-          <LastState Value="36" RealAddress="0CA7C250"/>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>"Spelunky.exe"+15446C</Address>
@@ -2355,7 +3114,6 @@
         <CheatEntry>
           <ID>260</ID>
           <Description>"number of players (copy?)"</Description>
-          <LastState Value="2" RealAddress="0CA49948"/>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
           <Address>Spelunky.exe+15446C</Address>
@@ -2366,7 +3124,6 @@
         <CheatEntry>
           <ID>252</ID>
           <Description>"Main Game Struct"</Description>
-          <LastState Value="0C604020" RealAddress="00BD84B4"/>
           <ShowAsHex>1</ShowAsHex>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
@@ -2375,7 +3132,6 @@
         <CheatEntry>
           <ID>253</ID>
           <Description>"Other Game Struct"</Description>
-          <LastState Value="03EF04C8" RealAddress="00BD8558"/>
           <ShowAsHex>1</ShowAsHex>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
@@ -2384,7 +3140,6 @@
         <CheatEntry>
           <ID>255</ID>
           <Description>"Alive P1 Struct"</Description>
-          <LastState Value="00000000" RealAddress="03EF04F8"/>
           <ShowAsHex>1</ShowAsHex>
           <Color>008080</Color>
           <VariableType>4 Bytes</VariableType>
@@ -2393,18 +3148,73 @@
             <Offset>30</Offset>
           </Offsets>
         </CheatEntry>
+        <CheatEntry>
+          <ID>404</ID>
+          <Description>"Start of Strings Table"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>800000</Color>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>1</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>Spelunky.exe+15446C</Address>
+          <Offsets>
+            <Offset>5c6</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>406</ID>
+          <Description>"Last String in Strings Table"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>800000</Color>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>1</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>Spelunky.exe+15446C</Address>
+          <Offsets>
+            <Offset>29cac6</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>407</ID>
+          <Description>"After String buffer?"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>800000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>Spelunky.exe+15446C</Address>
+          <Offsets>
+            <Offset>44062C</Offset>
+          </Offsets>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
-      <ID>286</ID>
-      <Description>"last update 2021-01-23. todo: add Sawr's pointers for deliveries, journal entries; fix or remove Contra's unreliable pointers"</Description>
-      <LastState Value="" RealAddress="00000000"/>
-      <GroupHeader>1</GroupHeader>
+      <ID>3</ID>
+      <Description>"Enable Debug Menu (Replaces Help And Options)"</Description>
+      <Color>0000FF</Color>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>{$lua}
+if syntaxcheck then return end
+
+
+
+[ENABLE]
+helpMenuFuncPtr = readInteger("[[Spelunky.exe+15446C]+4C]+122C68")
+writeInteger(
+    "[[Spelunky.exe+15446C]+4C]+122C68",
+    readInteger("[[Spelunky.exe+15446C]+4C]+122C50")
+)
+
+[DISABLE]
+writeInteger("[[Spelunky.exe+15446C]+4C]+122C68", helpMenuFuncPtr)
+helpMenuFuncPtr = nil
+</AssemblerScript>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
-  <Comments>Info about this table:
-  </Comments>
   <DisassemblerComments>
     <DisassemblerComment>
       <Address>"Spelunky.exe"+E60FC</Address>
