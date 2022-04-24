@@ -3152,7 +3152,7 @@
           <ID>404</ID>
           <Description>"Start of Strings Table"</Description>
           <ShowAsSigned>0</ShowAsSigned>
-          <Color>800000</Color>
+          <Color>008080</Color>
           <VariableType>String</VariableType>
           <Length>128</Length>
           <Unicode>1</Unicode>
@@ -3167,7 +3167,7 @@
           <ID>406</ID>
           <Description>"Last String in Strings Table"</Description>
           <ShowAsSigned>0</ShowAsSigned>
-          <Color>800000</Color>
+          <Color>008080</Color>
           <VariableType>String</VariableType>
           <Length>128</Length>
           <Unicode>1</Unicode>
@@ -3179,14 +3179,14 @@
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>407</ID>
-          <Description>"After String buffer?"</Description>
+          <ID>480</ID>
+          <Description>"Full Version (0 = Trial)"</Description>
           <ShowAsSigned>0</ShowAsSigned>
-          <Color>800000</Color>
+          <Color>008080</Color>
           <VariableType>Byte</VariableType>
           <Address>Spelunky.exe+15446C</Address>
           <Offsets>
-            <Offset>44062C</Offset>
+            <Offset>447330</Offset>
           </Offsets>
         </CheatEntry>
       </CheatEntries>
