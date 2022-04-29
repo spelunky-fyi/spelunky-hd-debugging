@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <Forms>
+    <SpawnW Class="TCEForm" Encoding="Ascii85">oszw8,b_Ht8CenK+iO)XTcN;A7su$)A);+qMhXbAQ7QFOpk;TUOoSl}]tqTv^j0O46e-ztkty39NWS.GcYFy5DQ1%*Ez/EsoBJqVu[rYTGq{Ol+/N%3.(zEa-YWDeIN6@Ij=307;76f7JVL4!8ZBvWtWaQi(bfj0nx/?pLaV6f#HMN^SqY_[N(yNR#g1/q#r.%EZNh%PPYxzlcHnwS7jnK72nSi3eFw9yWa.O?aPVa=By9@ldO+}w/D7i$+n[x1PaOIuj}?Kmz.*e_#FNvhvN)%7dhF-[]H!AEhzoW-H5]o1i(SBaxxm.z^;uNeJa)4t,VV#_T9PDWE3,3D?QfEiVRYza5-eA6B6ysG%#j%kNZXbfs9UQ-J}a2MbT.9PBwO6:9OYO[pwZ2Gq$S[7=ykrK_K0@2z6JaZ7?sOxwzud)SouZa/yDrw4I5HhZ!f)QJ,_l;y9U^^;:n3c^MY/L8ulZ^^.[7i-0b)LPPLx,v?;G^YWvtO?h/</SpawnW>
+  </Forms>
+  <CheatEntries/>
+  <UserdefinedSymbols>
+    <SymbolEntry>
+      <Name>SPAWN</Name>
+      <Address>0DC00200</Address>
+    </SymbolEntry>
+  </UserdefinedSymbols>
+  <Comments>Info about this table:
+</Comments>
+  <LuaScript>function Spawn_on_player(entity_type)
+  autoAssemble([==[
+globalAlloc(SPAWN,500)
+SPAWN:
+  mov edi,[esp+4]
+  mov eax,"spelunky.exe"+70AB0
+  mov ebx,dword ptr ds:["spelunky.exe"+15446C]
+  mov ecx,dword ptr ds:["spelunky.exe"+154510]
+  mov ecx,dword ptr ds:[ecx+30]
+  push 1
+  push edi
+  sub esp,8
+  mov edx,0
+  fld dword ptr ds:[ecx+34]
+  fstp dword ptr ss:[esp+4]
+  fld dword ptr ds:[ecx+30]
+  fstp dword ptr ss:[esp]
+  mov ecx,ebx
+  call eax
+  ret
+]==])
+  return executeCodeEx(1,nil,'SPAWN', entity_type)
+end
+
+function SpawnW_SpawnButtonClick(sender)
+  local player_addr = readInteger("[spelunky.exe+154510]+30")
+  if player_addr == 0 then
+     showMessage("Player entity doesn't exist")
+     return
+  end
+  local entity_addr_int = Spawn_on_player(tonumber(SpawnW.EntityId.text))
+  local entity_addr = string.format("%x", entity_addr_int)
+  SpawnW.EntityAddress.text = entity_addr
+end
+SpawnW.show()
+</LuaScript>
+</CheatTable>
